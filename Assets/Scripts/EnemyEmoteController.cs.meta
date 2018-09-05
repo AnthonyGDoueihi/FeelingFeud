@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1597ad34062b3b148b3ef921765292a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Joy: {fileID: 2800000, guid: c0e6d78d838b8f14796df966e3d7c296, type: 3}
+  - Admire: {instanceID: 0}
+  - Surprise: {instanceID: 0}
+  - Fear: {instanceID: 0}
+  - Anger: {instanceID: 0}
+  - Intimidation: {instanceID: 0}
+  - Sorrow: {instanceID: 0}
+  - Pity: {instanceID: 0}
+  - Singing: {instanceID: 0}
+  - Conflicted: {instanceID: 0}
+  - Confusion: {instanceID: 0}
+  - Dizzy: {instanceID: 0}
+  - Idea: {instanceID: 0}
+  - Tired: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

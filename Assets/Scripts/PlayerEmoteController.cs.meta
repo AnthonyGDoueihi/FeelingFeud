@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f67cbb7ad628cea488cf04019657fb92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Joy: {fileID: 2800000, guid: 30b437b9442fd594497c7802725d979f, type: 3}
+  - Admire: {fileID: 2800000, guid: c821999e2e61e0c46b43d61fadde82ef, type: 3}
+  - Surprise: {fileID: 2800000, guid: c92607b56fc4d9344a58139786b23fe6, type: 3}
+  - Fear: {fileID: 2800000, guid: 68441b3612aaa24468ac47d7fe9bbe47, type: 3}
+  - Anger: {fileID: 2800000, guid: 9d536f243bbecbd419aef106b18abe0d, type: 3}
+  - Intimidation: {fileID: 2800000, guid: d68f065dacf419a46b52b8295086aada, type: 3}
+  - Sorrow: {fileID: 2800000, guid: 420f6320e01f2834abb139ff7d7c88ea, type: 3}
+  - Pity: {fileID: 2800000, guid: 612eb308e92aa304b8a39c45ab4c9ac6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
